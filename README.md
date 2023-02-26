@@ -1,11 +1,7 @@
-# Robotron
+# CRUD JS 
 <h1>
     <img src="public/apresentacao.png">
 </h1>
-
-<h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/crud-js-alura/">Acessar Website</a>
-<h3 >
 
 # Indice
 
