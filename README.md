@@ -12,7 +12,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Crud-js-alura** é um CRUD que foi criado dentro do curso [JS na WEB: CRUD com javascript assíncrono, Alura](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Crud-js** é um CRUD que foi criado dentro do curso [JS: CRUD com javascript assíncrono](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
@@ -30,9 +30,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/crud-js-alura.git
+    $ git clone https://github.com/KellyVasconcellos/crud-js.git
     # Entrar no diretório
-    $ cd crud-js-alura
+    $ cd crud-js
 ```
 
 ---
