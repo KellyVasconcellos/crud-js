@@ -12,17 +12,17 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Crud-js** é um CRUD que foi criado dentro do curso [JS: CRUD com javascript assíncrono](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Crud-js** é um CRUD que foi criado dentro do curso [JS: CRUD com javascript assíncrono](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
